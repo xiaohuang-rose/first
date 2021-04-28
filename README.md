@@ -7,9 +7,9 @@
 # 4
 > - [跳到另一个MarkDown页面](https://github.com/xiaohuang-rose/first/blob/main/second.md)
 # 5
-[![本地图片](pkq.jpg)]
+![本地图片](pkq.jpg)
 # 6
-[![网络图片](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fcdn.duitang.com%2Fuploads%2Fitem%2F201410%2F20%2F20141020162058_UrMNe.jpeg&refer=http%3A%2F%2Fcdn.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1622203245&t=7e6611e15921201dfa61c5714b117b1b)]
+![网络图片](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fcdn.duitang.com%2Fuploads%2Fitem%2F201410%2F20%2F20141020162058_UrMNe.jpeg&refer=http%3A%2F%2Fcdn.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1622203245&t=7e6611e15921201dfa61c5714b117b1b)
 # 7
 ```html
       <html>
@@ -30,6 +30,7 @@
 - 小王子很有些不好意思，于是就拿着喷壶，打来了一壶清清的凉水，浇灌着花儿。
 # 11
 |  表头   | 表头  |
+| ----- | ----- |
 | 单元格  | 单元格 |
 | 单元格  | 单元格 |
 # 12
